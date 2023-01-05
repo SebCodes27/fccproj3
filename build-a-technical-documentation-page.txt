@@ -1,5 +1,3 @@
-** start of undefined **
-
 <!DOCTYPE html>
 <html>
   <head>
@@ -189,29 +187,3 @@
     </main>
   </body>
 </html>
-
-** end of undefined **
-
-** start of undefined **
-
-@media (prefers-reduced-motion: no-preference) {
-* {
-    scroll-behavior:smooth;
-  }
-}
-
-main header {margin: 20 auto}
-
-code 
-{display: block; padding: 10px 20px; width: 80%; border: 1px solid black;}
-
-#nav-bar {
-  display: flex; flex-direction:column;flex-wrap:wrap;
-}
-
-main header, #navbar header {font-size: 1.5rem}
-
-p, code, li {width: 700px;padding: 3px 20px}
-
-** end of undefined **
-
